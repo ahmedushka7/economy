@@ -1,24 +1,40 @@
 ---
-title: "Занятия"
 output: 
   html_document:
     doc: TRUE
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Занятия {.tabset .tabset-fade .tabset-pills}
 
-## Микроэкономика
+* [Информация](https://www.en.master.econ.uni-muenchen.de/application/application_process/org_test_of_adm/index.html#top) по тесту.
+* Пробный [тест](https://github.com/ahmedushka7/economy/raw/master/docs/example_test.pdf)
+
+В каждой вкладке будут находиться материалы по предмету.
+
+## Микроэкономика{#tab-1}
+
+Книги:
+
+* [Онлайн](http://freakonomics.ru/) учебник "Микроэкономика:промежуточный уровень", Xэл Р. Вэриан 1997 года на русском.
+* [Pdf](https://github.com/ahmedushka7/economy/raw/master/docs/varian.pdf) учебник "Микроэкономика:промежуточный уровень", Xэл Р. Вэриан 1997 года на русском.
+* [Pdf](https://github.com/ahmedushka7/economy/raw/master/docs/varian_en.pdf) Intermediate Microeconomics(2009) Hal R. Varian. 
+* [Книга](https://github.com/ahmedushka7/economy/raw/master/docs/microeconomic_theory.pdf) Andreu Mas Colell et al. (1995), Microeconomic Theory.
+* [Задачник](https://github.com/ahmedushka7/economy/raw/master/docs/micro.pdf) по микроэкономике.
+
+Курсы:
+
+* [Курс по микроэкономике](https://openedu.ru/course/hse/MICREC/)
 
 
 
-## Макроэкономика
+## Макроэкономика{#tab-2}
 
+* [Лекции](https://www.youtube.com/playlist?list=PLHFhypHwa6J2a0sjscbcEJOEobb2pgXFE) Перевышина.
 
+## Эконометрика{#tab-3}
 
-## Эконометрика
+Курсы:
 
+* [Курс](https://www.coursera.org/learn/ekonometrika) по эконометрике. Нужно посмотреть первые 6 недель без R.
 
-
-## Математический анализ
+## Математический анализ{#tab-4}
