@@ -1,0 +1,24 @@
+---
+title: "Занятия"
+output: 
+  html_document:
+    doc: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Микроэкономика
+
+
+
+## Макроэкономика
+
+
+
+## Эконометрика
+
+
+
+## Математический анализ
