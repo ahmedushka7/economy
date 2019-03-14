@@ -48,8 +48,19 @@ output:
 * прочитать главы 4,5.
 * прочитать главу 6 про спрос(дополнительно).
 * решить [тест](https://ahmedushka7.github.io/economy//Tests/test_2/test.html)
+* последний [тест](https://ahmedushka7.github.io/economy//Tests/test_3/test.html) по потребителю
 
 ### Теория производителя
+
+#### Занятие №3
+
+* Технологии(глава 17)
+* Максимизация прибыли(глава 18)
+
+Домашнее задание:
+
+* прочитать главы 17, 18
+* решить [задачи](https://pp.userapi.com/c847120/v847120590/1c5b97/tamY6Tkl7L8.jpg)
 
 ### Decision under Risk
 
